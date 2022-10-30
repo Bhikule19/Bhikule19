@@ -3,7 +3,7 @@
   <li>👀 I’m interested in <b>Web Development</b></li>
   <li>🌱 I’m currently learning <b>Front End Development</b></li>
   <li>💞️ I’m looking to collaborate on a Front-end project which includes HTML, CSS and Javascript</li>
-  <li>📫 How to reach me, email id - abhishekbhikule76@gmail.com</li>
+ <li>📫 How to reach me, email id - <a>abhishekbhikule76@gmail.com</a></li>
  </ul>
 <!---
 Bhikule19/Bhikule19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
