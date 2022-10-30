@@ -1,6 +1,6 @@
-- <h1>👋 Hi, I’m Abhishek Bhikule </h1>
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Development
+  <h1>👋 Hi, I’m Abhishek Bhikule </h1>
+- 👀 I’m interested in <b>Web Development</b>
+- 🌱 I’m currently learning <b>Front End Development</b>
 - 💞️ I’m looking to collaborate on a Front-end project which includes HTML, CSS and Javascript
 - 📫 How to reach me, email id - abhishekbhikule76@gmail.com
 
