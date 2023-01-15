@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.abhishekbhikule.repl.co/](https://portfolio.abhishekbhikule.repl.co/)
+- 👨‍💻 Checkout my Portfolio by clicking [here](https://abhishekb-portfolio.netlify.app/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Modern Web-Development**
+- 💬 Ask me about **JavaScript, HTML, CSS, Responsive Web-Development**
 
 - 📫 How to reach me **abhishekbhikule76@gmail.com**
 
