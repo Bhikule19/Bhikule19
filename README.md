@@ -4,9 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 
-- 🌱 I’m currently learning **React.js**
-
-- 👨‍💻 Checkout my Portfolio by clicking [here](https://abhishekb-portfolio.netlify.app/)
+- 👨‍💻 Check out my Portfolio by clicking [here](https://portfolio-website-bb87.vercel.app/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React, Responsive Web-Development**
 
